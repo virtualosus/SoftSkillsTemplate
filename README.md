@@ -1,6 +1,6 @@
 # Virtual Reality Soft Skills Template 
 
-  [<img src="http://img.youtube.com/vi/Aq8hGkx1nEk/0.jpg" width="1000" height="" />](https://www.youtube.com/watch?v=Aq8hGkx1nEk)
+  [<img src="https://github.com/virtualosus/SoftSkillsTemplate/blob/master/Assets/GithubImages/YoutubePic.png" width="1000" height="" />](https://www.youtube.com/watch?v=Aq8hGkx1nEk)
 
 
 This template Virtual Reality project is a demonstration of a number of Artificial Interlligence elements brought together in Unity for the purpose of training and developement focusing on Soft Skills.
