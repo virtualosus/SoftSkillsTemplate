@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2402649908499263371}
   m_Layer: 0
-  m_Name: AllYouNeed
+  m_Name: Demo_Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -152,7 +152,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3465236566921144349, guid: e9b9b1ad1196b76499b5c78a48ef7b1c, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: e9b9b1ad1196b76499b5c78a48ef7b1c, type: 3}
 --- !u!4 &4580682757139122146 stripped
 Transform:
@@ -469,11 +470,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1989045382463036504, guid: ff5fcd3d6ac466a45b6186d46dc320b0, type: 3}
       propertyPath: SpeechServiceAPIKey
-      value: 014e4f573197493dac6eeba9a4965623
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1989045382463036504, guid: ff5fcd3d6ac466a45b6186d46dc320b0, type: 3}
       propertyPath: SpeechServiceRegion
-      value: uksouth
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1989045382463036505, guid: ff5fcd3d6ac466a45b6186d46dc320b0, type: 3}
       propertyPath: characterName

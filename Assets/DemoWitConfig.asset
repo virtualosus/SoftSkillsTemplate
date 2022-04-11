@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
-  m_Name: NewWitConfiguration
+  m_Name: DemoWitConfig
   m_EditorClassIdentifier: 
   application:
     witConfiguration: {fileID: 11400000}
-    name: wit_demo_application
-    id: 3209484956041080
+    name: demo_wit_config
+    id: 990215765217361
     lang: en
     isPrivate: 0
-    createdAt: 2022-04-04T05:58:25-0700
-  configId: 7c2e926eeff537f46b8cd9aefb7152ff
-  clientAccessToken: Q6YZ53DLZDYPM5KYEDQ3RZTRMCTMSL3E
+    createdAt: 2022-04-05T05:45:06-0700
+  configId: cbc74ae15398f79488d7055a5398b937
+  clientAccessToken: QIEQ2W2LSLBQ6DDMPZRJQ23S6TSGNR2D
   timeoutMS: 10000
   endpointConfiguration:
     uriScheme: 

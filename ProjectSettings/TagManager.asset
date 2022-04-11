@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - NPCPrefab
+  - Hand
+  - NPC_Prefab
+  - 0
+  - 1
+  - 2
   layers:
   - Default
   - TransparentFX
