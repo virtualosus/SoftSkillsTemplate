@@ -9,8 +9,8 @@ Set up for use on the Meta/Oculus Quest 2, this project can be used as a templat
 
 ### Artifical Intelligence Elements
 
-* [Microsoft Azure Text to Speech](https://github.com/2030428/LawAndOrder/blob/master/README.md#microsoft-azure-text-to-speech).
-* [Meta/Oculus Voice Recognition (Wit.ai)](https://github.com/2030428/LawAndOrder/blob/master/README.md#metaoculus-voice-recognition-witai)
+* [Microsoft Azure Text to Speech](##-microsoft-azure-text-to-speech).
+* [Meta/Oculus Voice Recognition (Wit.ai)](##-metaoculus-voice-recognition-witai)
 
 
 ### NPC and Dialogue
@@ -104,11 +104,25 @@ This will link the script lines to the correct NPC, and send them to the correct
 The Meta/Oculus Lip Sync is also now included with the [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) package. Your character models will need to include blend shapes for the facial expressions of letter pronunciations. The Rocket Box collection now includes facial blend shapes, and can be used for free.
   
 Be sure to drag the Skinned Mesh Renderer for your desired model on to the 'OVR Lip Sync Contect Morph Target'.
+  
+<p align = "center">
+  <img src="https://github.com/virtualosus/SoftSkillsTemplate/blob/master/Assets/GithubImages/lipSync.PNG" width="600" height="" />
 
 ## Rocketbox
 
 The [Microsoft Rocketbox Avatar Library](https://github.com/microsoft/Microsoft-Rocketbox) is a collection of avatars which are provided for free use for research and academic puproses. The full library can be dowloaded by .zip with through the link, and now includes a great selection of animations as well as the blend shapes required for the Lip Sync.
   
-Simply find your desired model from the collection, and drag and drop the 'facial blends' version of the .fbx to the NPC_Prefab, replacing the exsisting model.
+Simply find your desired model from the collection, and drag and drop the whole folder into your project.
   
+<p align = "center">
+  <img src="https://github.com/virtualosus/SoftSkillsTemplate/blob/master/Assets/GithubImages/rocketbox1.PNG" width="600" height="" />
+
+Once that has imported, drag the 'facial blends' version of the .fbx to the NPC_Prefab object in the hierarchy. (You will need to unpack the prefab to complete this step.)
   
+<p align = "center">
+  <img src="https://github.com/virtualosus/SoftSkillsTemplate/blob/master/Assets/GithubImages/rocketbox2.PNG" width="600" height="" />
+  
+And then remove the example model. Remeber to add the new skinned mesh renderer of the model to the Lip Sync setup, as shown in the Lip Sync section.
+  
+<p align = "center">
+  <img src="https://github.com/virtualosus/SoftSkillsTemplate/blob/master/Assets/GithubImages/rocketbox3.PNG" width="600" height="" />
