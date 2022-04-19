@@ -9,8 +9,8 @@ Set up for use on the Meta/Oculus Quest 2, this project can be used as a templat
 
 ### Artifical Intelligence Elements
 
-* [Microsoft Azure Text to Speech](##-microsoft-azure-text-to-speech).
-* [Meta/Oculus Voice Recognition (Wit.ai)](##-metaoculus-voice-recognition-witai)
+* [Microsoft Azure Text to Speech](#-microsoft-azure-text-to-speech).
+* [Meta/Oculus Voice Recognition (Wit.ai)](#-metaoculus-voice-recognition-witai)
 
 
 ### NPC and Dialogue
