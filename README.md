@@ -15,9 +15,9 @@ Set up for use on the Meta/Oculus Quest 2, this project can be used as a templat
 
 ### NPC and Dialogue
 
-* [Yarn Spinner 2.0](https://github.com/2030428/LawAndOrder/blob/master/README.md#yarn-spinner-20)
-* [Meta/Oculus Lip Sync](https://github.com/2030428/LawAndOrder/blob/master/README.md#metaoculus-lip-sync)
-* [Rocketbox](https://github.com/2030428/LawAndOrder/blob/master/README.md#rocketbox)
+* [Yarn Spinner 2.0](#yarn=spinner-20)
+* [Meta/Oculus Lip Sync](#metaoculuslip-sync)
+* [Rocketbox](#rocketbox)
 
 
 ## Microsoft Azure Text to Speech
