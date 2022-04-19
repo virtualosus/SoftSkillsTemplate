@@ -1,6 +1,6 @@
 # Virtual Reality Soft Skills Template 
 
-  [<img src="http://img.youtube.com/vi/Aq8hGkx1nEk/0.jpg" width="1000" height="" />](https://www.youtube.com/watch?v=Aq8hGkx1nEk)
+  [<img src="https://github.com/virtualosus/SoftSkillsTemplate/blob/master/Assets/GithubImages/YoutubePic.png" width="1000" height="" />](https://www.youtube.com/watch?v=Aq8hGkx1nEk)
 
 
 This template Virtual Reality project is a demonstration of a number of Artificial Interlligence elements brought together in Unity for the purpose of training and developement focusing on Soft Skills.
@@ -18,12 +18,6 @@ Set up for use on the Meta/Oculus Quest 2, this project can be used as a templat
 * [Yarn Spinner 2.0](https://github.com/2030428/LawAndOrder/blob/master/README.md#yarn-spinner-20)
 * [Meta/Oculus Lip Sync](https://github.com/2030428/LawAndOrder/blob/master/README.md#metaoculus-lip-sync)
 * [Rocketbox](https://github.com/2030428/LawAndOrder/blob/master/README.md#rocketbox)
-* [Mixamo](https://github.com/2030428/LawAndOrder/blob/master/README.md#mixamo)
-
-### Adapting for Your Project
-
-* What you'll need to do
-* Essential elements
 
 
 ## Microsoft Azure Text to Speech
@@ -111,7 +105,10 @@ The Meta/Oculus Lip Sync is also now included with the [Oculus Integration](http
   
 Be sure to drag the Skinned Mesh Renderer for your desired model on to the 'OVR Lip Sync Contect Morph Target'.
 
-
 ## Rocketbox
 
-## Mixamo
+The [Microsoft Rocketbox Avatar Library](https://github.com/microsoft/Microsoft-Rocketbox) is a collection of avatars which are provided for free use for research and academic puproses. The full library can be dowloaded by .zip with through the link, and now includes a great selection of animations as well as the blend shapes required for the Lip Sync.
+  
+Simply find your desired model from the collection, and drag and drop the 'facial blends' version of the .fbx to the NPC_Prefab, replacing the exsisting model.
+  
+  
