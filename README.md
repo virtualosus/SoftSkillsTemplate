@@ -1,9 +1,9 @@
 # Virtual Reality Soft Skills Template 
 
-  [<img src="https://github.com/virtualosus/SoftSkillsTemplate/blob/master/Assets/GithubImages/YoutubePic.png" width="1000" height="" />](https://www.youtube.com/watch?v=Aq8hGkx1nEk)
+  [<img src="https://github.com/virtualosus/SoftSkillsTemplate/blob/master/Assets/GithubImages/YoutubePic.png" width="1000" height="" />](https://youtu.be/fvD73vEq2-w)
 
 
-This template Virtual Reality project is a demonstration of a number of Artificial Interlligence elements brought together in Unity for the purpose of training and developement focusing on Soft Skills.
+This template Virtual Reality project is a demonstration of a number of Artificial Interlligence elements brought together in Unity for the purpose of training and developement focusing on Soft Skills, set up in Unity version 2020.3.27f1.
 
 Set up for use on the Meta/Oculus Quest 2, this project can be used as a template for any training application in VR. Follow the below guidance on how to amend the project to your needs.
 
