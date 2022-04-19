@@ -16,7 +16,7 @@ Set up for use on the Meta/Oculus Quest 2, this project can be used as a templat
 ### NPC and Dialogue
 
 * [Yarn Spinner 2.0](#yarn=spinner-20)
-* [Meta/Oculus Lip Sync](#metaoculuslip-sync)
+* [Meta/Oculus Lip Sync](#metaoculus-lip-sync)
 * [Rocketbox](#rocketbox)
 
 
